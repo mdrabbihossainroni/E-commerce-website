@@ -1,0 +1,297 @@
+@media (min-width: 320px) and (max-width: 767px) {
+
+    #banner .slides {
+      height: 300px;
+    }
+    #banner .slides p{
+        display: block;
+               line-height: 1px;
+    }
+
+    #banner .slides h2 {
+        color: var(--secondarycolor);
+        font-size: 30px;
+        margin-bottom: 16px;
+        line-height: 30px;
+    }
+
+    #banner .slides h6{
+   display: none;
+    }
+
+    #banner .slides a {
+        font-size: 18px;
+        background-color: var(--primarycolor);
+        padding: 10px 30px 10px 22px;
+    }
+
+    #banner .slides .overlay {
+        position: absolute;
+        bottom: 60px;
+    }
+
+    #banner .slicks button {
+display: none;
+    }
+
+    #discount-banner {
+        padding: 150px 0px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    #discount-banner {
+   height: auto;
+    }
+
+    #discount-banner .text h2 {
+        font-size: 15px;
+        line-height: 25px;
+        margin-top: -70px;
+    }
+
+    #discount-banner .text p{
+        font-size: 12px;
+        line-height: 20px;
+        margin-top: -15px;
+    }
+
+    #discount-banner .text a {
+        font-size: 12px;
+        padding: 8px 40px 8px 21px;
+        margin-top: 30px;
+    }
+
+    #seller .heading h2 {
+        font-size: 20px;
+ margin-top: -30px;
+ margin-bottom: -20px;
+    }
+
+    #seller .button a {
+        font-size: 12px;
+        padding: 8px 33px 8px 15px;
+        margin-top: -80px;
+    }
+
+    #deals .heading h2 {
+        font-size: 22px;
+        margin-bottom: 54px;
+        margin-top: -80px;
+    }
+
+    #deals .wrapper-slide .cards .text h6 {
+     margin-top: 40px;
+    }
+
+    #deals .wrapper-slide .cards .text h2 {
+        font-size: 22px;
+        line-height: 16px;
+    }
+
+    #deals .wrapper-slide .cards .text p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    #deals .wrapper-slide .cards .text h3 {
+        font-size: 15px;
+        line-height: 10px;
+        margin-top: 10px;
+    }
+
+    #deals .wrapper-slide .cards .text span {
+        font-size: 15px;
+    }
+
+    #deals .wrapper-slide .cards .text a {
+        font-size: 12px;
+        padding: 8px 30px 8px 18px;
+        margin-top: 20px;
+    }
+
+    .overlay .card {
+   display: none;
+    }
+
+    #beauty .image img {
+        height: 300px;
+        margin-bottom: 300px;
+    }
+
+    element.style {
+   margin-bottom: -70px;
+    }
+
+    img, svg {
+       display: none;
+    }
+
+    #card .image img {
+    margin-top: -50px;
+    }
+
+    #beauty .text {
+  height: auto;
+    }
+  
+    #beauty .text h2 {
+        font-size: 25px;
+        line-height: 36px;
+    }
+
+    #beauty .text a {
+        padding: 9px 25px 9px 13px;
+    }
+
+    #latest .heading h2 {
+        margin-top: -100px;
+       
+    }
+
+    #product .heading h2 {
+        font-size: 22px;
+        margin-bottom: 10px;
+        margin-top: -20px;
+    }
+
+    #aytor .icon .icon1 {
+        margin-top: -110px;
+    }
+
+    #aytor {
+        opacity: 0.93;
+        background: #11161E;
+        margin-top: 200px;
+        position: relative;
+    }
+
+    #aytor {
+        margin-top: -10px;
+    }
+
+    /* #beauty .image .overlay i {
+     display: none;
+    } */
+
+
+
+    #aytor .icon .icon2 {
+        margin-left: -55px;
+        margin-top: -110px;
+    }
+
+    #aytor .icon .icon3 {
+        margin-left: -55px;
+        margin-top: -110px;
+    }
+
+    #aytor .icon .icon4 {
+        margin-left: -55px;
+        margin-top: -110px;
+    }
+
+    element.style {
+   margin-top: 100px;
+    }
+
+    /* #beauty .image img {
+ display: none;
+    } */
+
+
+    #latest .heading h2 {
+     margin-top: 100px;
+    }
+
+    .icon ul li {
+        padding: 10px 10px;
+    }
+
+    #banner1 .text {
+        margin-top: 40px;
+    }
+
+    .align-items-center {
+        margin-top: 40px;
+    }
+
+    #learn .content h2 {
+        margin-top: -90px;
+        font-size: 20px;
+        text-align: center;
+    }
+    #learn .content p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    #learn .content a {
+        padding: 8px 25px 8px 13px;
+        margin-top: -5px;
+     }
+
+     #product .card .content h1 {
+  margin-top: -130px;
+    }
+
+     #product .card {
+        padding: 70px 0px 60px 0px;
+    }
+
+    #story .card .text h2 {
+    margin-top: -180px;
+    text-align: center;
+    }
+
+    #leader .heading h2 {
+        font-size: 20px;
+        margin-top: -120px;
+    }
+
+    .icon ul li a, .icon ul li span {
+        padding: 65px 10px;
+    }
+
+    #aetor .heading h2 {
+        font-size: 26px;
+    }
+
+    #seller .card .image {
+        height: 200px;
+    }
+
+    #frees .card {
+display: none;
+    }
+
+    #pre-footer .end-footer .footer .content p {
+text-align: center;
+        font-size: 10px;
+    }
+
+    #pre-footer .heading .content h2 {
+     text-align: center;
+        font-size: 20px;
+    }
+
+    #pre-footer .heading .content p {
+text-align: center;
+    }
+
+    #pre-footer .heading .image .button a {
+display: none;
+    }
+
+    #pre-footer .heading .image .btn input {
+        width: 324px;
+    }
+
+    #banner1 .text h2 {
+        font-size: 25px;
+    }
+    #mark .slides .text p {
+        font-size: 8px;
+        line-height: 7px;
+    }
+}
